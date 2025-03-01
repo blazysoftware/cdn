@@ -63,7 +63,7 @@ function criarBarra(var_nome, var_avatar, var_urlWhatsapp, var_urlBack, var_mens
     let mensagesLength = 0;
     let respostaLength = 0;
     
-    createInfoMessage();  
+    // createInfoMessage();  
       
     function createInfoMessage() {
     const botBody = document.querySelector('typebot-standard').shadowRoot.querySelector('.typebot-container');
