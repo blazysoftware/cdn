@@ -131,7 +131,7 @@ function criarBarra(var_nome, var_avatar, var_urlWhatsapp, var_urlBack, var_mens
     
     var cssIdMain = 'myCssMain';
     var cssIdShadow = 'myCssShadow';
-    var cssHref = 'https://produto.comunidadeecom.com/chatecom_css_tema_whatsapp_ios_light.css?v=11';
+    var cssHref = 'https://cdn.jsdelivr.net/gh/blazysoftware/cdn@main/custom-audio.css';
     
     // FunÃ§Ã£o para adicionar o CSS em um determinado head
     function addCssToHead(cssId, head) {
